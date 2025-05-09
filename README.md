@@ -31,8 +31,6 @@ Model evaluation and tuning
 
 Business intelligence and reporting
 
-📁 Contents
-churn_data.csv – The main dataset
 
 notebooks/ – Example Jupyter notebooks for EDA and modeling
 
