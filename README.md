@@ -1,35 +1,4 @@
-# Churn-Dataset 
-This repository contains a customer churn dataset designed for data analysis, machine learning modeling, and predictive analytics tasks. The dataset includes customer-level information such as demographics, service usage, account details, and whether or not the customer has churned.
 
-📊 Dataset Overview
-The dataset can be used to build models that predict customer churn, helping businesses proactively address customer retention. It includes fields such as:
-
-CustomerID: Unique identifier for each customer
-
-Gender: Male or Female
-
-Age: Customer age
-
-Tenure: Number of months the customer has stayed
-
-Services: Types of services subscribed to (e.g., Internet, Phone)
-
-MonthlyCharges: Amount charged per month
-
-TotalCharges: Total amount charged
-
-Churn: Whether the customer has churned (Yes/No)
-
-🛠️ Use Cases
-Exploratory Data Analysis (EDA)
-
-Feature engineering practice
-
-Supervised learning (classification)
-
-Model evaluation and tuning
-
-Business intelligence and reporting
 📊 Churn Sales Dataset Analysis with Power BI
 1. Overview of the Dataset
 The Churn Sales Dataset typically contains data related to customer behavior, sales transactions, and churn status. It helps businesses identify patterns leading to customer attrition and allows proactive strategies to retain customers.
@@ -129,6 +98,6 @@ Drill-through and filters for dynamic insights.
 Conclusion
 The Churn Sales Dataset, when analyzed with Power BI, provides a comprehensive and actionable view of customer behavior, enabling businesses to identify patterns, reduce attrition, and optimize customer lifetime value. Through visual storytelling and advanced analytics, Power BI transforms raw churn data into strategic business decisions
 
-
+Dashboard preview : (https://github.com/abhishektyagi03/Churn-Dataset/blob/main/CHURN%20DATASETS..png)
 
 
